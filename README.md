@@ -5,12 +5,13 @@
 
 모델의 구글 드라이브 링크("Qwen_Math_LoRA"): [Qwen_Math_LoRA](https://drive.google.com/drive/folders/10Mqbg9JCbpAUrlIk2AkpUAN2AT3Pt5Rc?usp=sharing)
 - 구조
+```
 Qwen_Math_LoRA
 ├── checkpoint-300
 ├── checkpoint-354
 ├── merged_vllm_model       # 학습된 모델
 └── README.md
-
+```
 
 ## 1. 모델 개요
 
